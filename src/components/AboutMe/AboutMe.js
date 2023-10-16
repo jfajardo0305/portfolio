@@ -3,10 +3,6 @@ import React from 'react';
 const AboutMe = () => {
     return (
         <div className="aboutMe">
-            <h1>Jose A. Fajardo II</h1>
-            <h2>Web Application Developer</h2>
-            <p>A Full Stack Web Developer focused on Backend Development</p>
-            <p>Who loves to play Computer Games, and to ride a Motorcycle</p>
             <h3>Education</h3>
             <h4>Adamson University</h4>
             <p>2011 - 2015</p>
