@@ -1,0 +1,13 @@
+.nav-bar {
+    height:  5rem;
+    width: 100vw;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.nav-bar-menu-list {
+    margin: 1rem;
+}
